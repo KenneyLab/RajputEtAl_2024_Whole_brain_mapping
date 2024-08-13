@@ -1,5 +1,5 @@
-**Fils for Rajput et al., 2024 Whole brain mapping in adult zebrafish and identification of the novel tank test functional connectome.
-**
+Files for Rajput et al., 2024 Whole brain mapping in adult zebrafish and identification of the novel tank test functional connectome.
+
 Files include: 
 
 Python code for removing overlaps after CellFinder: remove_overlaps.py
